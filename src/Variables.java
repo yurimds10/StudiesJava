@@ -1,5 +1,5 @@
-public class Main {
-  public static void main(String[] args) {
+public class Variables {
+  public static void variablesLesson() {
     // Texts
     char character = 'A';            // A
     String name = "Yuri"; // string (array of characters)
