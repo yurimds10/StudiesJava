@@ -1,8 +1,4 @@
-public class Main {
-  public static void main(String[] args) {
-    calculatePrice(666, 10.55f);
-  }
-
+public class DataTypes {
   public static void datatypeLesson() {
     // Texts
     char character = 'A'; // stores a single character or ASCII values
