@@ -1,7 +1,8 @@
+
 public class Variables {
   public static void variablesLesson() {
     // Texts
-    char character = 'A';            // A
+    char character = 'A'; // A
     String name = "Yuri"; // string (array of characters)
     int num = 10;
     float floatNum = 23.223234f;
